@@ -98,6 +98,14 @@ int main() {
 
 		case 2: cin.ignore();
 			cout << "\nEnter Title Of Book: "; cin.getline(titlebuy, 20);
+				
+				
+				
+				
+				cout<<" =============== hello challenger ==========\n";
+				
+				
+				
 			cout << " hello freeman \n";
 			cout << "Enter Author Of Book: ";  cin.getline(authorbuy, 20);
 			for (t = 0; t < i; t++) {
